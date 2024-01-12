@@ -1,14 +1,15 @@
 # Lern-Periode 3
 
-Max Muster
+Joel Kaderi
 
 12.1. bis 23.2.2024
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. Was wäre ein geeignetes Projekt würd diese LP3?
+Ich stehe gut da mit meinen Noten würde ich behaupten im Modul 431 hatte ich eine 6 im Modul 319 eine 5, im Modul 163 eine 4,5. Die Note 319 ist sehr wichtig.
+. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
+Das ich mir Zeit für die Module
+4. Was wäre ein geeignetes Projekt würd diese LP3?
 
 ## 12.1.2024
 

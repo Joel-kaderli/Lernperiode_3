@@ -7,8 +7,11 @@ Joel Kaderi
 ## Grob-Planung
 
 Ich stehe gut da mit meinen Noten würde ich behaupten im Modul 431 hatte ich eine 6 im Modul 319 eine 5, im Modul 163 eine 4,5. Die Note 319 ist sehr wichtig.
+
 . Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
+
 Das ich mir Zeit für die Module nehem vorallem für das Modul 164, da wir da eine sehr grosse abgabe haben. Aber das geht ja nicht gut für diese Modul da ich ein Programier Projekt machen sollte und das werde ich auch machen um meine C# kentnisse verbessern kann.
+
 4. Was wäre ein geeignetes Projekt würd diese LP3?
 Ich habe mir überlegt ein kleines Ticktacktoe zu programmieren.
 
@@ -18,15 +21,17 @@ Ich habe mir überlegt ein kleines Ticktacktoe zu programmieren.
 
 ## 19.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Gewinner überprüfen
+- [ ] Unentschieden überprüfen
+- [ ] Tick-Tack-Toe Spielfeld zurücksetzen
+- [ ] Tick-Tack-Toe Text zurücksetzen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+| 1               |      spiel läuft                |  alle x und 0 eingeben sind auf dem feld          der gewinner wird bekannt gegeben    |            der gewinner wird bekannt gegeben       |          |
+| 2               |         spiel läuft             |    auf dem Feld alle x oder 0 gesetzt            |          ausgabe heute gibt es keinen gewinner      |          |           
+|    3            |     spiel lauft und fertig gespielt                 |   alle 0 oder x sind gestzt auf dem feld    |    das ganze spielfeld wird zurückgesetzt            |          |
+| 4               |    spiel läuft und wurde fertig gespielt                  |   alle 0 oder x sind gestzt auf dem feld              |        alle 0 und x werden aus dem spielfeld entfernt        |          |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
@@ -34,17 +39,17 @@ Ich habe mir überlegt ein kleines Ticktacktoe zu programmieren.
 
 ## 26.1.2024
 
-- [ ] Fünftes AP
-- [ ] Spiel endet, wenn Schlange sich selber beisst
-
-- [ ] Achtes AP
+- [ ] Gewinnbedingungen erstellen
+- [ ] Tick-Tack-Toe App verschönern
+- [ ] Spielfeld farbig gestalten
+- [ ] Code dokumentieren
 
 | Testfall-Nummer | Ausgangslage (Given)                                         | Eingabe (When)              | Ausgabe (Then) | Erfüllt? |
 | --------------- | ------------------------------------------------------------ | --------------------------- | -------------- | -------- |
-| 5               |                                                              |                             |                |          |
-| 7               | Spiel gestartet, Schlange lang genug, dass sie sich beissen kann | Schlange beisst sich selber | Spiel endet    |          |
-| 8               |                                                              |                             |                |          |
-
+| 5               |   spiel läuft                                                           |                    3 x oder 3 0 wurden in der bestimmten Rheinfolge gestzt         |     wenn diese Rheinfolge auf bedingung zu trifft wird der Gewinner bestimmt           |          |
+|  6  | fertig programmirt | nicht schön gestalltet tick tack toe app|  schön gestalltet app || 
+|7 | fertig programmirt | textfeld nicht farbig|textfeld farbig gestalltet||
+|8|fertig programmirt| gibt keinen testfall||||
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt

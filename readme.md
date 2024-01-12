@@ -8,8 +8,9 @@ Joel Kaderi
 
 Ich stehe gut da mit meinen Noten würde ich behaupten im Modul 431 hatte ich eine 6 im Modul 319 eine 5, im Modul 163 eine 4,5. Die Note 319 ist sehr wichtig.
 . Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-Das ich mir Zeit für die Module
+Das ich mir Zeit für die Module nehem vorallem für das Modul 164, da wir da eine sehr grosse abgabe haben. Aber das geht ja nicht gut für diese Modul da ich ein Programier Projekt machen sollte und das werde ich auch machen um meine C# kentnisse verbessern kann.
 4. Was wäre ein geeignetes Projekt würd diese LP3?
+Ich habe mir überlegt ein kleines Ticktacktoe zu programmieren.
 
 ## 12.1.2024
 

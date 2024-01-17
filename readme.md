@@ -28,14 +28,13 @@ Ich habe mir überlegt ein kleines Ticktacktoe zu programmieren.
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |      spiel läuft                |  alle x und 0 eingeben sind auf dem feld          der gewinner wird bekannt gegeben    |            der gewinner wird bekannt gegeben       |          |
-| 2               |         spiel läuft             |    auf dem Feld alle x oder 0 gesetzt            |          ausgabe heute gibt es keinen gewinner      |          |           
-|    3            |     spiel lauft und fertig gespielt                 |   alle 0 oder x sind gestzt auf dem feld    |    das ganze spielfeld wird zurückgesetzt            |          |
-| 4               |    spiel läuft und wurde fertig gespielt                  |   alle 0 oder x sind gestzt auf dem feld              |        alle 0 und x werden aus dem spielfeld entfernt        |          |
+| 1               |      spiel läuft                |  alle x und 0 eingeben sind auf dem feld          der gewinner wird bekannt gegeben    |            der gewinner wird bekannt gegeben       |     Erfüllt     |
+| 2               |         spiel läuft             |    auf dem Feld alle x oder 0 gesetzt            |          ausgabe heute gibt es keinen gewinner      |     erfüllt     |           
+|    3            |     spiel lauft und fertig gespielt                 |   alle 0 oder x sind gestzt auf dem feld    |    das ganze spielfeld wird zurückgesetzt            |     Erfüllt     |
+| 4               |    spiel läuft und wurde fertig gespielt                  |   alle 0 oder x sind gestzt auf dem feld              |        alle 0 und x werden aus dem spielfeld entfernt        |  Erfült        |
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
-☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+Diese Woche im Lernattelier habe ich an meinem Tictactoe weiter gearbeitet und habe die ersten Zeilen code geschrieben. Das es ein Spielfeld hat und man die Kreuze setzten muss. Das Spielfeld zu erstellen ist mir sehr gut gelungen da ich das Programm mit Winforms mache das die Rheinfolge der Kreuze stimmt und dann der Gewinner ausgewertet wird was viel schwieriger und ich musste mir ein Tutorielle ansehen.(66 Wörter)
 
 ## 26.1.2024
 

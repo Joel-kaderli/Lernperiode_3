@@ -55,7 +55,7 @@ Diese Woche im Lernattelier habe ich an meinem Tictactoe weiter gearbeitet und h
 
 ## 16.2.2024
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+Heute Nachmittag im Lernatelier habe ich an meinem Programm weiter gearbeitet, dem Tic-Tac-Toe. Ich habe den letzten feinen Schliff am Spiel gemacht und dann habe ich noch gemacht, dass wenn ein X auf dem Feld das Feld grün wird und wenn ein 0 gesetzt wird, dass es blau wird.(51 Wörter) 
 
 ## Reflexion
 

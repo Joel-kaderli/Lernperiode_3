@@ -59,6 +59,7 @@ Heute Nachmittag im Lernatelier habe ich an meinem Programm weiter gearbeitet, d
 
 ## Reflexion
 
+In dieser dritten Lernperiode mussten wir ein Programm erstellen. Ich habe ein Tic-Tac-Toe erstellt, ich fand es am Anfang richtig schwierig, eine Planung zu machen, welche man 2 Wochen in vor aus machen muss, da man noch nicht genau weiss, was man macht oder man noch machen muss. Aber am Ende konnte ich eine einigermassen gute Planung machen, meiner Meinung nach. Aber das Tic-Tac-Toe Spiel ist mir relativ gut gelungen, da ich noch ein Tutorial geschaut habe und da ein wenig abgeschaut habe, vor allem um mein Spiel besser zu designen. Für die nächste Lernperiode nehme ich mit, in der ich mal ein Programm ohne ein Tutorial machen soll. Sodass ich auch selber Programmieren kann.  
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
 
 Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 10-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
